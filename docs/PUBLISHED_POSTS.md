@@ -45,5 +45,6 @@ See [PUBLISHING_SETUP.md](PUBLISHING_SETUP.md).
 
 ## GitHub
 
-Branch `claude/eager-archimedes-xf3e7q`, campaign commit `6bc9f60` (pushed). MP4s are git-ignored and live only in `content/video/` on this notebook (not yet uploaded anywhere).
+Branch `claude/eager-archimedes-xf3e7q`, campaign commit `6bc9f60` (pushed). MP4s are git-ignored; they are hosted as assets of the GitHub release [campaign-media-v1](https://github.com/ueiider/REDIEU-Z-Content-Automation/releases/tag/campaign-media-v1) (download base `https://github.com/ueiider/REDIEU-Z-Content-Automation/releases/download/campaign-media-v1`).
+
 
