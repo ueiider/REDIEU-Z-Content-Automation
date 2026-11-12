@@ -1,0 +1,21 @@
+{
+  "package_id": "p09-goodtime-reel",
+  "platform": "facebook",
+  "kind": "reel",
+  "language": "pt",
+  "scheduled_utc": "2026-11-17T15:00:00Z",
+  "scheduled_local": "2026-11-17 12:00 BRT",
+  "caption": "The Goodtime State – Vice City Collection is Rockstar's limited Collector's Box inspired by Leonida's TV hit Macca the Gator: a 6-inch Macca figure, Oakley Frogskins sunglasses, a New Era snapback, a Leonida Keys crossbody bag, pins, stickers and a souvenir poster. Arrives November 19 while supplies last, game sold separately. Would you get it?\n\n—\n\nA Goodtime State – Vice City Collection é o box de colecionador limitado da Rockstar inspirado no hit de TV de Leonida, Macca the Gator: figura de 6 polegadas do Macca, óculos Oakley Frogskins, boné snapback New Era, bolsa Leonida Keys, pins, adesivos e pôster. Chega em 19 de novembro, enquanto durarem os estoques, jogo vendido separadamente. Você levaria?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l"
+  ],
+  "assets": [
+    "content/video/p09-goodtime-reel.pt.mp4"
+  ],
+  "cover": "content/campaign/p09-goodtime-reel/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

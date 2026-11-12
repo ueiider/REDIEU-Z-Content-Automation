@@ -1,0 +1,21 @@
+{
+  "package_id": "p18-store-collection",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "pt",
+  "scheduled_utc": "2026-11-21T22:00:00Z",
+  "scheduled_local": "2026-11-21 19:00 BRT",
+  "caption": "The official Grand Theft Auto VI Collection is at the Rockstar Store: heavyweight tees in black, blue and pink with the VI or Rockstar logos, Flexfit caps, a chrome keychain, a Vice City money clip, tote bags and vinyl stickers. Rockstar says more is coming, plus a wishlist feature.\n\n—\n\nA coleção oficial de Grand Theft Auto VI está na Rockstar Store: camisetas pesadas em preto, azul e rosa com a logo VI ou da Rockstar, bonés Flexfit, chaveiro cromado, prendedor de dinheiro Vice City, ecobags e adesivos de vinil. A Rockstar diz que vem mais por aí, além de uma lista de desejos.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store"
+  ],
+  "assets": [
+    "content/campaign/p18-store-collection/pt.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p18-store-collection/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

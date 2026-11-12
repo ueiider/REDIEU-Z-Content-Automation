@@ -1,0 +1,21 @@
+{
+  "package_id": "p01-launch-countdown",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "en",
+  "scheduled_utc": "2026-11-13T15:00:00Z",
+  "scheduled_local": "2026-11-13 12:00 BRT",
+  "caption": "Six days to go. Rockstar says Grand Theft Auto VI launches Thursday, November 19 on PlayStation 5 and Xbox Series X|S. Are you ready for Leonida? Tell us your plan for launch day.\n\n—\n\nFaltam seis dias. A Rockstar diz que Grand Theft Auto VI chega na quinta-feira, 19 de novembro, para PlayStation 5 e Xbox Series X|S. Pronto para Leonida? Conte seu plano para o dia do lançamento.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+  ],
+  "assets": [
+    "content/campaign/p01-launch-countdown/en.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p01-launch-countdown/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

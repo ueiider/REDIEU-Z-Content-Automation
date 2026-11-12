@@ -1,0 +1,28 @@
+{
+  "package_id": "p11-launch-calendar",
+  "platform": "instagram",
+  "kind": "carousel",
+  "language": "pt",
+  "scheduled_utc": "2026-11-18T15:00:00Z",
+  "scheduled_local": "2026-11-18 12:00 BRT",
+  "caption": "Save these dates from Rockstar: November 12 retail copies, November 19 launch with The Album and the free poster and map, November 21 The Festival in Miami, and December 11 for the Original Score by Justice.\n\n—\n\nSalve estas datas da Rockstar: 12 de novembro cópias no varejo, 19 de novembro lançamento com The Album e o pôster e mapa gratuitos, 21 de novembro The Festival em Miami e 11 de dezembro a trilha original de Justice.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+    "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+    "https://www.rockstargames.com/newswire/article/o39o87a435a25a/grand-theft-auto-vi-the-festival",
+    "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"
+  ],
+  "assets": [
+    "content/campaign/p11-launch-calendar/pt.slide1.1080x1350.png",
+    "content/campaign/p11-launch-calendar/pt.slide2.1080x1350.png",
+    "content/campaign/p11-launch-calendar/pt.slide3.1080x1350.png",
+    "content/campaign/p11-launch-calendar/pt.slide4.1080x1350.png",
+    "content/campaign/p11-launch-calendar/pt.slide5.1080x1350.png"
+  ],
+  "cover": "content/campaign/p11-launch-calendar/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}

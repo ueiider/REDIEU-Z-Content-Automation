@@ -1,0 +1,23 @@
+{
+  "package_id": "p13-launch-day-reel",
+  "platform": "instagram",
+  "kind": "reel",
+  "language": "pt",
+  "scheduled_utc": "2026-11-19T12:00:00Z",
+  "scheduled_local": "2026-11-19 09:00 BRT",
+  "caption": "Launch day. Per Rockstar, Grand Theft Auto VI arrives today, November 19, on PlayStation 5 and Xbox Series X|S, alongside Grand Theft Auto VI: The Album and a free printable poster and map on the official site. Welcome to Leonida. Where are you playing from?\n\n—\n\nDia de lançamento. Segundo a Rockstar, Grand Theft Auto VI chega hoje, 19 de novembro, ao PlayStation 5 e ao Xbox Series X|S, junto com Grand Theft Auto VI: The Album e um pôster e mapa gratuitos no site oficial. Bem-vindo a Leonida. De onde você está jogando?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+    "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+    "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+  ],
+  "assets": [
+    "content/video/p13-launch-day-reel.pt.mp4"
+  ],
+  "cover": "content/campaign/p13-launch-day-reel/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}

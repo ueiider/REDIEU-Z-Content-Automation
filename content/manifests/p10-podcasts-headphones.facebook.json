@@ -1,0 +1,21 @@
+{
+  "package_id": "p10-podcasts-headphones",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "en",
+  "scheduled_utc": "2026-11-17T22:00:00Z",
+  "scheduled_local": "2026-11-17 19:00 BRT",
+  "caption": "A first for the series: Rockstar says GTA VI introduces on-demand podcasts alongside radio, playable in vehicles and on foot through newly introduced headphones and earbuds connected to the smartphones of Jason and Lucia. Would you listen to podcasts in Leonida?\n\n—\n\nUma estreia na série: a Rockstar diz que GTA VI traz podcasts sob demanda junto do rádio, para ouvir em veículos e a pé com fones de ouvido ligados aos celulares de Jason e Lucia. Você ouviria podcasts em Leonida?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  ],
+  "assets": [
+    "content/campaign/p10-podcasts-headphones/en.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p10-podcasts-headphones/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

@@ -1,0 +1,21 @@
+{
+  "package_id": "p15-festival-reel",
+  "platform": "instagram",
+  "kind": "reel",
+  "language": "en",
+  "scheduled_utc": "2026-11-20T15:00:00Z",
+  "scheduled_local": "2026-11-20 12:00 BRT",
+  "caption": "Tomorrow, November 21: Grand Theft Auto VI: The Festival at Mana Wynwood in Miami. Rockstar's lineup includes Cactus Jack presents Travis Scott, Cardi B, Metro Boomin, Don Toliver, Tainy and a Justice DJ set across two stages, presented with PlayStation and produced by the creators of III Points. Info: gtavi-thefestival.miami. Who would you see first?\n\n—\n\nAmanhã, 21 de novembro: Grand Theft Auto VI: The Festival no Mana Wynwood, em Miami. O line-up da Rockstar inclui Cactus Jack apresenta Travis Scott, Cardi B, Metro Boomin, Don Toliver, Tainy e um DJ set do Justice em dois palcos, em parceria com a PlayStation e produzido pelos criadores do III Points. Info: gtavi-thefestival.miami. Quem você veria primeiro?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/o39o87a435a25a/grand-theft-auto-vi-the-festival"
+  ],
+  "assets": [
+    "content/video/p15-festival-reel.en.mp4"
+  ],
+  "cover": "content/campaign/p15-festival-reel/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}
