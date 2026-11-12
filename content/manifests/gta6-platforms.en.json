@@ -1,0 +1,20 @@
+{
+  "story_id": "gta6-platforms",
+  "language": "en",
+  "class": "CONFIRMED",
+  "content_type": "image",
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "caption": "CONFIRMED: GTA VI is announced for PlayStation 5 and Xbox Series X|S. No PC date has been announced. Unofficial fan-made graphic.\n\n#GTAVI #GTA6 #PS5 #XboxSeriesX",
+  "sources": [
+    "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
+    "https://www.pcworld.com/article/2965627/rockstar-postpones-gta-6-release-date-again-by-several-months.html"
+  ],
+  "asset": "content/images/gta6-platforms.en.png",
+  "status": "READY_TO_PUBLISH",
+  "rendered_at": "2026-11-12T15:02:31.678410Z",
+  "public_url": null,
+  "error": null
+}

@@ -1,0 +1,21 @@
+{
+  "story_id": "gta6-release-date",
+  "language": "en",
+  "class": "CONFIRMED",
+  "content_type": "image",
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "caption": "CONFIRMED: Rockstar's statement sets GTA VI's worldwide launch for Thursday, November 19, 2026. Unofficial fan-made graphic, not affiliated with Rockstar Games or Take-Two.\n\n#GTAVI #GTA6 #RockstarGames #Gaming",
+  "sources": [
+    "https://www.engadget.com/gaming/grand-theft-auto-vi-is-delayed-to-november-19-2026-211848530.html",
+    "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
+    "https://www.pcworld.com/article/2965627/rockstar-postpones-gta-6-release-date-again-by-several-months.html"
+  ],
+  "asset": "content/images/gta6-release-date.en.png",
+  "status": "READY_TO_PUBLISH",
+  "rendered_at": "2026-11-12T15:02:29.135506Z",
+  "public_url": null,
+  "error": null
+}

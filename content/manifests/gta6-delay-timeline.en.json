@@ -1,0 +1,20 @@
+{
+  "story_id": "gta6-delay-timeline",
+  "language": "en",
+  "class": "ANALYSIS",
+  "content_type": "image",
+  "platforms": [
+    "instagram",
+    "facebook"
+  ],
+  "caption": "TIMELINE: GTA VI went from a 2025 target to May 26, 2026, and then to November 19, 2026. Unofficial fan-made graphic.\n\n#GTAVI #GTA6 #RockstarGames",
+  "sources": [
+    "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026",
+    "https://au.variety.com/2025/tv/news/gta-6-release-delayed-november-2026-29751"
+  ],
+  "asset": "content/images/gta6-delay-timeline.en.png",
+  "status": "READY_TO_PUBLISH",
+  "rendered_at": "2026-11-12T15:02:34.221734Z",
+  "public_url": null,
+  "error": null
+}
