@@ -1,0 +1,40 @@
+﻿# Credentials and environment
+.env
+.env.*
+!.env.example
+Secrets/
+secrets/
+*client_secret*.json
+*oauth*.json
+*token*.json
+*credentials*.json
+profiles.json
+
+# Media and large files
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.aac
+*.flac
+*.webm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+.cache/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
