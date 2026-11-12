@@ -19,3 +19,6 @@ Update this file after every significant task.
 | Automated dispatch | Partial setup | Controlled end-to-end test |
 
 Always verify live status before changing these entries.
+
+
+> **Update 2026-11-12:** a verified snapshot is in `PROGRESS_TRACKER_VERIFIED_2026-11-12.md`. The table above is historical.

@@ -43,3 +43,11 @@ The system should discover interesting topics, analyse source material, generate
 Read `10_AI_HANDOVER/AI_AGENT_INSTRUCTIONS.md` and `09_Roadmap/ROADMAP.md` before making changes.
 
 Then inspect the actual local project. Documentation records the known state at the time of writing; it does not replace live verification.
+
+
+## Audit documentation (2026-11-12)
+
+- `MASTER_CONTEXT.md`: single-file briefing for any new AI or human.
+- `11_Audit/`: verified technical audit, architecture and data flow, publishing integrations, gaps and risks, commands.
+- `09_Roadmap/IMPLEMENTATION_ROADMAP_MULTIPLATFORM.md` and `09_Roadmap/PROGRESS_TRACKER_VERIFIED_2026-11-12.md`.
+- Note: the path in the first-instruction section above should read `10_AI_Handover/AI_AGENT_INSTRUCTIONS.md` (case differs on case-sensitive systems).
