@@ -1,4 +1,4 @@
-# Published posts
+﻿# Published posts
 
 **Verified status: 0 posts published. 0 posts scheduled on a platform.** No Meta credentials or signed-in Meta session exist on this notebook (the built-in browser is logged out of Meta Business Suite and no Chrome extension is connected), so nothing was sent. Nothing below is claimed as live.
 
@@ -45,4 +45,5 @@ See [PUBLISHING_SETUP.md](PUBLISHING_SETUP.md).
 
 ## GitHub
 
-See commit hash in the final report of the session; branch `claude/eager-archimedes-xf3e7q`.
+Branch `claude/eager-archimedes-xf3e7q`, campaign commit `6bc9f60` (pushed). MP4s are git-ignored and live only in `content/video/` on this notebook (not yet uploaded anywhere).
+
