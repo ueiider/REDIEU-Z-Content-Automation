@@ -1,0 +1,22 @@
+{
+  "package_id": "p19-delay-timeline",
+  "platform": "instagram",
+  "kind": "image",
+  "language": "en",
+  "scheduled_utc": "2026-11-22T15:00:00Z",
+  "scheduled_local": "2026-11-22 12:00 BRT",
+  "caption": "Timeline: GTA VI started with a 2025 target, moved to May 26, 2026, and then to November 19, 2026, the date it launched on. A long wait, now over. What was the hardest part of waiting? (Source: press coverage of Rockstar's date announcements.)\n\n—\n\nLinha do tempo: GTA VI começou com meta para 2025, passou para 26 de maio de 2026 e depois para 19 de novembro de 2026, a data do lançamento. Uma espera longa, agora encerrada. Qual foi a parte mais difícil de esperar? (Fonte: cobertura da imprensa sobre os anúncios de data da Rockstar.)\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.engadget.com/gaming/grand-theft-auto-vi-is-delayed-to-november-19-2026-211848530.html",
+    "https://www.gematsu.com/2025/11/grand-theft-auto-vi-delayed-to-november-19-2026"
+  ],
+  "assets": [
+    "content/campaign/p19-delay-timeline/en.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p19-delay-timeline/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "ANALYSIS"
+}

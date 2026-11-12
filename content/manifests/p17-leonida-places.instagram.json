@@ -1,0 +1,27 @@
+{
+  "package_id": "p17-leonida-places",
+  "platform": "instagram",
+  "kind": "carousel",
+  "language": "en",
+  "scheduled_utc": "2026-11-21T15:00:00Z",
+  "scheduled_local": "2026-11-21 12:00 BRT",
+  "caption": "Places Rockstar has named in its recent posts: Vice City, the Grassrivers, Port Gellhorn and the Leonida Keys. For more, Rockstar points to the Only in Leonida section of the official site. Which one do you want to explore first?\n\n—\n\nLugares que a Rockstar citou em seus posts recentes: Vice City, Grassrivers, Port Gellhorn e Leonida Keys. Para saber mais, a Rockstar indica a seção Only in Leonida do site oficial. Qual você quer explorar primeiro?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+    "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l",
+    "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+  ],
+  "assets": [
+    "content/campaign/p17-leonida-places/en.slide1.1080x1350.png",
+    "content/campaign/p17-leonida-places/en.slide2.1080x1350.png",
+    "content/campaign/p17-leonida-places/en.slide3.1080x1350.png",
+    "content/campaign/p17-leonida-places/en.slide4.1080x1350.png",
+    "content/campaign/p17-leonida-places/en.slide5.1080x1350.png"
+  ],
+  "cover": "content/campaign/p17-leonida-places/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}

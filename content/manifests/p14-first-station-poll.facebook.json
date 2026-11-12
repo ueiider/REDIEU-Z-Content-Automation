@@ -1,0 +1,21 @@
+{
+  "package_id": "p14-first-station-poll",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "en",
+  "scheduled_utc": "2026-11-19T22:00:00Z",
+  "scheduled_local": "2026-11-19 19:00 BRT",
+  "caption": "Launch-day question: which Leonida radio station do you tune to first? Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM or Dirty South Classics. Drop your pick in the comments.\n\n—\n\nPergunta do dia de lançamento: qual estação de rádio de Leonida você sintoniza primeiro? Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM ou Dirty South Classics. Deixe sua escolha nos comentários.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+  ],
+  "assets": [
+    "content/campaign/p14-first-station-poll/en.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p14-first-station-poll/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "COMMUNITY"
+}

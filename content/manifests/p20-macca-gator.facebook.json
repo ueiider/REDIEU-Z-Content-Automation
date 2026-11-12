@@ -1,0 +1,22 @@
+{
+  "package_id": "p20-macca-gator",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "pt",
+  "scheduled_utc": "2026-11-22T22:00:00Z",
+  "scheduled_local": "2026-11-22 19:00 BRT",
+  "caption": "Meet Macca the Gator, the star of Leonida's hit TV show according to Rockstar. He appears on Goodtime State tees and as a 6-inch figure in the Vice City Collection, and Chunkee the Manatee joins his wetland friends. Do you have a favorite from Leonida's TV?\n\n—\n\nConheça Macca the Gator, estrela do programa de TV de maior sucesso de Leonida, segundo a Rockstar. Ele aparece nas camisetas Goodtime State e como figura de 6 polegadas na Vice City Collection, e Chunkee the Manatee faz parte da turma do pântano. Você tem um favorito da TV de Leonida?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store",
+    "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l"
+  ],
+  "assets": [
+    "content/campaign/p20-macca-gator/pt.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p20-macca-gator/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

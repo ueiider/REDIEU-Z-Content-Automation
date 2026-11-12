@@ -1,0 +1,21 @@
+{
+  "package_id": "p07-cloud-remote-play",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "en",
+  "scheduled_utc": "2026-11-16T15:00:00Z",
+  "scheduled_local": "2026-11-16 12:00 BRT",
+  "caption": "From Rockstar's pre-load announcement: GTA VI will also be available through Xbox Cloud Gaming on Xbox Series X|S and Xbox One consoles, using Xbox Series S graphics settings, and it supports Remote Play on PlayStation and Xbox. Cloud performance depends on your connection.\n\n—\n\nDo anúncio de pré-download da Rockstar: GTA VI também estará disponível via Xbox Cloud Gaming no Xbox Series X|S e no Xbox One, usando as configurações gráficas do Xbox Series S, e terá suporte a Remote Play no PlayStation e no Xbox. O desempenho na nuvem depende da sua conexão.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+  ],
+  "assets": [
+    "content/campaign/p07-cloud-remote-play/en.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p07-cloud-remote-play/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

@@ -1,0 +1,25 @@
+{
+  "package_id": "p03-ps5-pro-carousel",
+  "platform": "facebook",
+  "kind": "carousel",
+  "language": "en",
+  "scheduled_utc": "2026-11-14T15:00:00Z",
+  "scheduled_local": "2026-11-14 12:00 BRT",
+  "caption": "Swipe for what Rockstar says about GTA VI on PlayStation 5 and PS5 Pro: PSSR and ray-traced shadows on PS5 Pro, DualSense haptics, Tempest 3D Audio and faster load times on PS5, and a 30 fps target on current-gen consoles. Which console are you playing on?\n\n—\n\nArraste para ver o que a Rockstar diz sobre GTA VI no PlayStation 5 e no PS5 Pro: PSSR e sombras com ray tracing no PS5 Pro, vibração do DualSense, áudio Tempest 3D e carregamentos mais rápidos no PS5, e meta de 30 fps nos consoles atuais. Em qual console você vai jogar?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+  ],
+  "assets": [
+    "content/campaign/p03-ps5-pro-carousel/en.slide1.1080x1350.png",
+    "content/campaign/p03-ps5-pro-carousel/en.slide2.1080x1350.png",
+    "content/campaign/p03-ps5-pro-carousel/en.slide3.1080x1350.png",
+    "content/campaign/p03-ps5-pro-carousel/en.slide4.1080x1350.png",
+    "content/campaign/p03-ps5-pro-carousel/en.slide5.1080x1350.png"
+  ],
+  "cover": "content/campaign/p03-ps5-pro-carousel/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

@@ -1,0 +1,21 @@
+{
+  "package_id": "p04-thirty-fps",
+  "platform": "instagram",
+  "kind": "image",
+  "language": "pt",
+  "scheduled_utc": "2026-11-14T22:00:00Z",
+  "scheduled_local": "2026-11-14 19:00 BRT",
+  "caption": "Rockstar says GTA VI targets 30 frames per second on current-gen consoles while keeping the density and visual fidelity of Leonida. Open-world question: do you prefer maximum detail or higher frame rates? Vote in the comments.\n\n—\n\nA Rockstar diz que GTA VI mira 30 quadros por segundo nos consoles atuais, mantendo a densidade e a fidelidade visual de Leonida. Pergunta de mundo aberto: você prefere máximo de detalhes ou mais FPS? Responda nos comentários.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now"
+  ],
+  "assets": [
+    "content/campaign/p04-thirty-fps/pt.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p04-thirty-fps/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "COMMUNITY"
+}

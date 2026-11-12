@@ -1,0 +1,25 @@
+{
+  "package_id": "p16-score-carousel",
+  "platform": "facebook",
+  "kind": "carousel",
+  "language": "pt",
+  "scheduled_utc": "2026-11-20T22:00:00Z",
+  "scheduled_local": "2026-11-20 19:00 BRT",
+  "caption": "The Grand Theft Auto VI Original Score is composed by Justice and lands December 11 with 30 tracks on streaming, CD and vinyl. Rockstar says it is an adaptive score tuned to how you play. Singles so far: Flower in a Hurricane (feat. Tame Impala, SZA, King Gizzard & The Lizard Wizard) and Pusher (feat. Gesaffelstein).\n\n—\n\nA trilha original de Grand Theft Auto VI é composta por Justice e chega em 11 de dezembro com 30 faixas em streaming, CD e vinil. A Rockstar diz que é uma trilha adaptativa, ajustada a como você joga. Singles até agora: Flower in a Hurricane (com Tame Impala, SZA, King Gizzard & The Lizard Wizard) e Pusher (com Gesaffelstein).\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"
+  ],
+  "assets": [
+    "content/campaign/p16-score-carousel/pt.slide1.1080x1350.png",
+    "content/campaign/p16-score-carousel/pt.slide2.1080x1350.png",
+    "content/campaign/p16-score-carousel/pt.slide3.1080x1350.png",
+    "content/campaign/p16-score-carousel/pt.slide4.1080x1350.png",
+    "content/campaign/p16-score-carousel/pt.slide5.1080x1350.png"
+  ],
+  "cover": "content/campaign/p16-score-carousel/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}

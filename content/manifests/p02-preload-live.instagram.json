@@ -1,0 +1,22 @@
+{
+  "package_id": "p02-preload-live",
+  "platform": "instagram",
+  "kind": "image",
+  "language": "pt",
+  "scheduled_utc": "2026-11-13T22:00:00Z",
+  "scheduled_local": "2026-11-13 19:00 BRT",
+  "caption": "Pre-load is open. Per Rockstar, digital pre-orders on PS5 and Xbox Series X|S can pre-load now, and the file needs up to 212 GB depending on your device. Free up space today so launch day is just press play.\n\n—\n\nO pré-download já está liberado. Segundo a Rockstar, quem fez pré-venda digital no PS5 e no Xbox Series X|S pode pré-baixar agora, e o arquivo exige até 212 GB conforme o aparelho. Libere espaço hoje e no lançamento é só dar play.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/89834o94713o21/pre-load-grand-theft-auto-vi-now",
+    "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+  ],
+  "assets": [
+    "content/campaign/p02-preload-live/pt.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p02-preload-live/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}

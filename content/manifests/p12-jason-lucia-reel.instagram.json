@@ -1,0 +1,21 @@
+{
+  "package_id": "p12-jason-lucia-reel",
+  "platform": "instagram",
+  "kind": "reel",
+  "language": "en",
+  "scheduled_utc": "2026-11-18T22:00:00Z",
+  "scheduled_local": "2026-11-18 19:00 BRT",
+  "caption": "The setup, per Rockstar's launch trailer post: Jason and Lucia know the deck is stacked against them, an easy score goes wrong, and they end up in the middle of a criminal conspiracy stretching across Leonida, forced to rely on each other more than ever. Launch is tomorrow, November 19. Who are you most excited to play?\n\n—\n\nA premissa, segundo o post do trailer de lançamento da Rockstar: Jason e Lucia sabem que tudo está contra eles, um golpe fácil dá errado e eles caem no meio de uma conspiração criminosa que atravessa Leonida, obrigados a contar um com o outro mais do que nunca. O lançamento é amanhã, 19 de novembro. Quem você mais quer jogar?\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer"
+  ],
+  "assets": [
+    "content/video/p12-jason-lucia-reel.en.mp4"
+  ],
+  "cover": "content/campaign/p12-jason-lucia-reel/cover.en.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_IG_USER_ID/IG_MEDIA_BASE_URL not set",
+  "class": "OFFICIAL"
+}

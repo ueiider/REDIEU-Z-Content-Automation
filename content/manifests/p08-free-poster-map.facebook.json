@@ -1,0 +1,21 @@
+{
+  "package_id": "p08-free-poster-map",
+  "platform": "facebook",
+  "kind": "image",
+  "language": "pt",
+  "scheduled_utc": "2026-11-16T22:00:00Z",
+  "scheduled_local": "2026-11-16 19:00 BRT",
+  "caption": "On November 19 Rockstar will add a printable GTA VI cover art poster and a map of Leonida as a free download on the official site. A double-sided physical version follows after launch at the Rockstar Store, for $0.99 or free with any purchase there.\n\n—\n\nEm 19 de novembro a Rockstar vai liberar no site oficial um pôster imprimível com a arte da capa de GTA VI e um mapa de Leonida, grátis. Uma versão física frente e verso chega depois do lançamento na Rockstar Store, por US$ 0,99 ou grátis em qualquer compra na loja.\n\nFan page. Not affiliated with Rockstar Games or Take-Two. Página de fã, sem afiliação com a Rockstar Games ou a Take-Two.\nSource / Fonte: rockstargames.com/newswire\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #ViceCity #Leonida #Gaming #REDIEUZ",
+  "sources": [
+    "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+  ],
+  "assets": [
+    "content/campaign/p08-free-poster-map/pt.slide1.1080x1350.png"
+  ],
+  "cover": "content/campaign/p08-free-poster-map/cover.pt.1080x1920.png",
+  "status": "BLOCKED_AUTH",
+  "post_url": null,
+  "platform_post_id": null,
+  "error": "META_PAGE_TOKEN/META_PAGE_ID not set",
+  "class": "OFFICIAL"
+}
